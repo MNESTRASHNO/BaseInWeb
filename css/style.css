@@ -49,3 +49,21 @@ body {
     width: 80px;
     height: 90px;
 }
+
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: #fff;
+    font-weight: bold;
+    display: block;
+    margin: 0 auto;
+}
+
+#demo img {
+    margin-top: 30px;
+    width: 100px; /* Задайте нужный размер картинки здесь */
+    height: auto; /* Автоматическое соотношение сторон */
+}
